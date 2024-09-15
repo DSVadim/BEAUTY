@@ -1,0 +1,243 @@
+
+.header{
+    background-color: #EFEFEF;
+    padding: 10px;
+}
+.nav-list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+.nav-item{
+
+}
+.nav-link{
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+}
+.section1{
+    display: flex;
+    flex-direction: column;
+}
+.cont1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+
+}
+.number{
+    padding-left: 400px;
+    padding-right: 20px;
+}
+.numbutton {
+    padding: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    border: 2px solid rgb(241, 60, 110);
+    border-radius: 40px;
+    background: rgb(255, 255, 255);
+    font-family: Roboto;
+}
+.nav-list2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+.nav-item2{
+
+}
+.nav-link2{
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+}
+.section2{
+    margin-top: 10px;
+    background-image: url("chair.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section2-cont1{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 35%;
+    margin-left: 100px;
+    padding: 80px;
+}
+.section2-title{
+    font-family: Roboto;
+    font-size: 38px;
+    font-weight: 700;
+    color: #EFEFEF;
+}
+.section2-text{
+    font-family: Roboto;
+    font-size: 12px;
+    color: #EFEFEF;
+}
+.section2-button{
+    font-family: Roboto;
+    color: #EFEFEF;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 40px;
+    background: rgb(241, 60, 110);
+    width: 35%;
+}
+.section3{
+    background-color: #e1e1e1;
+}
+.section3-title{
+    display: flex;
+    padding: 30px;
+    padding-left: 200px;
+    font-size: 12px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+.section3-card{
+    margin-left: 25%;
+    display: flex;
+    width: 12%;
+    padding: 15px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #EFEFEF;
+}
+.card-title{
+    font-family: Roboto;
+    font-size: 5px;
+}
+.card-price{
+    font-family: Roboto;
+    font-size: 10px;
+    font-weight: bold;
+}
+.card-button{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 30px;
+    color: #EFEFEF;
+    background-color: #F13C6E;
+}
+.section3-card2{
+    margin-left: 3%;
+    display: flex;
+    width: 12%;
+    padding: 15px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #EFEFEF;
+}
+.section3-cont1{
+    display: flex;
+    flex-direction: row;
+}
+.section3-card3{
+    margin-left: 3%;
+    display: flex;
+    width: 12%;
+    padding: 15px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #EFEFEF;
+}
+.section3-card4{
+    margin-left: 3%;
+    display: flex;
+    width: 12%;
+    padding: 15px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #EFEFEF;
+}
+.section3-cont2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.cardlist{
+    display: flex;
+    background-color: #F13C6E;
+flex-direction: row;
+}
+.cardlist-title{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: bold;
+    color: #EFEFEF;
+}
+.cardlist-text{
+    font-family: Roboto;
+    font-size: 9px;
+    color: #EFEFEF;
+    padding: 15px;
+}
+.cardlist-email{
+    background-color: #EFEFEF;
+    border-radius: 30px;
+    width: 105%;
+    text-decoration: black;
+}
+.cardlist-con1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    width: 40%;
+}
+.cardlist-con2{
+    display: flex;
+    padding-left: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.cardlist2{
+    display: flex;
+    background-color: #F13C6E;
+    flex-direction: row;
+}
+.cardlist-button{
+   color: #EFEFEF;
+    width: 75%;
+    border-radius: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    font-size: 12px;
+    font-family: Roboto;
+}
+.section3-img{
+    padding: 60px;
+}
+.section3-cont3{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 50px;
+}
+.footer{
+    background-color: #EFEFEF;
+    padding: 50px;
+
+}
