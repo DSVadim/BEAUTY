@@ -69,7 +69,7 @@
 }
 .section2{
     margin-top: 10px;
-    background-image: url("chair.png");
+    background-image: url("../img/chair.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -111,10 +111,13 @@
     font-family: Roboto;
     font-weight: bold;
 }
+.section3-cont1{
+    margin-left: 15%;
+}
 .section3-card{
-    margin-left: 25%;
     display: flex;
-    width: 12%;
+    width: 15%;
+    margin-left: 5%;
     padding: 15px;
     flex-direction: column;
     align-items: center;
@@ -137,39 +140,9 @@
     color: #EFEFEF;
     background-color: #F13C6E;
 }
-.section3-card2{
-    margin-left: 3%;
-    display: flex;
-    width: 12%;
-    padding: 15px;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: #EFEFEF;
-}
 .section3-cont1{
     display: flex;
     flex-direction: row;
-}
-.section3-card3{
-    margin-left: 3%;
-    display: flex;
-    width: 12%;
-    padding: 15px;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: #EFEFEF;
-}
-.section3-card4{
-    margin-left: 3%;
-    display: flex;
-    width: 12%;
-    padding: 15px;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: #EFEFEF;
 }
 .section3-cont2{
     display: flex;
@@ -200,6 +173,7 @@ flex-direction: row;
     border-radius: 30px;
     width: 105%;
     text-decoration: black;
+
 }
 .cardlist-con1{
     display: flex;
@@ -235,6 +209,8 @@ flex-direction: row;
     display: flex;
     flex-direction: row;
     padding-bottom: 50px;
+    margin-left: 15%;
+
 }
 .footer{
     background-color: #EFEFEF;
