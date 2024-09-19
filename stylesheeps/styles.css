@@ -228,11 +228,11 @@ flex-direction: row;
     display: flex;
     flex-direction: row;
     padding: 30px;
+    justify-content: space-around;
 }
 .footer-nav{
     display: flex;
     flex-direction: column;
-    padding-left: 19%;
     width: 15%;
 }
 .footer-h3{
